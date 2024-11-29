@@ -1,0 +1,9 @@
+WordleSolver.py
+    Program that takes input about the result of a wordle guess and will tell you what the possible answers are with that information
+
+    The program when run asks for the result of your first letter
+    If you guessed "crane"and your results were "ddddd" (with "d" being for darkened out letters, y being for yellow letters, and g being for green letters)
+    You enter your first result as "c d" where the c represents the C from the guess Crane and the d indicates that the letter does not appear in the word
+    The program returns the lists of what it knows about the characters and a list of all still compatible words along with the length of that list.
+    The intention is to enter a word of your choice from the list as the next guess.
+    From here you can type clear to reset the program (if you got to the correct word) or continue to input the results of your next guess
