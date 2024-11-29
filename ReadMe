@@ -7,3 +7,4 @@ WordleSolver.py
     The program returns the lists of what it knows about the characters and a list of all still compatible words along with the length of that list.
     The intention is to enter a word of your choice from the list as the next guess.
     From here you can type clear to reset the program (if you got to the correct word) or continue to input the results of your next guess
+
