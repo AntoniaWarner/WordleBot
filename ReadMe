@@ -7,4 +7,6 @@ WordleSolver.py
     The program returns the lists of what it knows about the characters and a list of all still compatible words along with the length of that list.
     The intention is to enter a word of your choice from the list as the next guess.
     From here you can type clear to reset the program (if you got to the correct word) or continue to input the results of your next guess
+BestWordTest
+    Runs, for each possible answer word, a given number of simulations where the word is used as the first guess. The average number of guesses to guess the correct word is recorded and the word with the lowest score is saved.
 
